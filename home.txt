@@ -1,0 +1,2 @@
+git init
+git remote add origin git@github.com:superfreeman/20160224.git
